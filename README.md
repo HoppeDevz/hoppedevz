@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 -->
 
 [Instagram](https://www.instagram.com/gabrielhoppe/)
+<br>
 [Twitter](https://twitter.com/GabrielhoppeM)
+<br>
 [LinkedIn](https://www.linkedin.com/in/gabriel-hoppe-0b13a51ab/)

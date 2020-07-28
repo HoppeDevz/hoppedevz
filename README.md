@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://i.imgur.com/M9fqZtP.png" />
+<img src="https://i.imgur.com/NdojEke.png" />
 
 <!--
 **HoppeDevz/hoppedevz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

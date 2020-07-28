@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Instagram](https://www.instagram.com/gabrielhoppe/)
+[📱Instagram](https://www.instagram.com/gabrielhoppe/)
 <br>
-[Twitter](https://twitter.com/GabrielhoppeM)
+[🐦Twitter](https://twitter.com/GabrielhoppeM)
 <br>
-[LinkedIn](https://www.linkedin.com/in/gabriel-hoppe-0b13a51ab/)
+[🖋LinkedIn](https://www.linkedin.com/in/gabriel-hoppe-0b13a51ab/)

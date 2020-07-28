@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[Instagram]("https://www.instagram.com/gabrielhoppe/")
+[Twitter]("https://twitter.com/GabrielhoppeM")
+[LinkedIn]("https://www.linkedin.com/in/gabriel-hoppe-0b13a51ab/")

@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 <img src="https://i.imgur.com/MW8hWq9.png" />
 

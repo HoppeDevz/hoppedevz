@@ -19,7 +19,7 @@ Computer Science (UNIFENAS) Student. :man_technologist:
 
 - :earth_americas: I'm from Campos Gerais - Brazil
 - :video_game: I like to play video games and coding...
-- :gem: I love to customize everything lol
+- :gem: I love the low level programming...
 
 
 ## Social media :mailbox_with_no_mail:

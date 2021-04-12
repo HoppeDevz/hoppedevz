@@ -13,6 +13,8 @@ Full-Stack | Software engineer :robot:.
 
 Computer Science (UNIFENAS) Student. :man_technologist:
 
+Software Engineer in SB4-GAMES 🚀
+
 ## About me 
 
 :heart: Mathmatics | :black_heart: Hip-Hop | :blue_heart: Programming

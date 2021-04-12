@@ -15,7 +15,7 @@ Computer Science (UNIFENAS) Student. :man_technologist:
 
 ## About me 
 
-:heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
+:heart: Mathmatics | :black_heart: Hip-Hop | :blue_heart: Programming
 
 - :earth_americas: I'm from Campos Gerais - Brazil
 - :video_game: I like to play video games and coding...

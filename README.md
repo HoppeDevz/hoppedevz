@@ -4,7 +4,7 @@ user.birth_date: '2003-27-02'
 user.github_username: 'HoppeDevz'
 ---
 
-<img align="right" width="400" height="400" src="https://i.imgur.com/xmnLeMe.png">
+<img align="right" width="400" height="400" src="https://i.imgur.com/FufhAF4.png">
 
 
 # Hi, I'm Hoppe 🐺

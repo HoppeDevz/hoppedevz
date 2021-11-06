@@ -19,9 +19,9 @@ Software Engineer in [FiveFPS](https://fivefps.com) 🚀
 
 :heart: Mathmatics | :black_heart: Hip-Hop | :blue_heart: Programming
 
-- :earth_americas: I'm from Brazil
+- :flag_br: I'm from Brazil
 - :video_game: I like to play video games and coding...
-- :gem: I love the low level programming...
+- :atom: I love the low level programming...
 
 
 ## Social media :mailbox_with_no_mail:

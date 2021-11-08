@@ -14,21 +14,26 @@ user.github_username: 'HoppeDevz'
 ##### Computer Science (UNIFENAS) Student. :man_technologist:
 
 ##### Software Engineer in [FiveFPS](https://fivefps.com) 🚀
+...
+<!------------------------------------------------------------------------------------------------->
 
-<br></br>
 ## About me 
 
 ##### 💛 Mathmatics | 💛 Hip-Hop | 💛 Programming
 
 ##### - 🍥 I'm from Brazil
 ##### - 🍥 I like listen music every time and coding/studying...
+...
 
-<br></br>
+<!------------------------------------------------------------------------------------------------->
+
 ## Two favorite songs
 ##### - 🥤 [NightLovell - Contraband](https://www.youtube.com/watch?v=ZHI18vd9IJE)
 ##### - 🥤 [NightLovell - Whoever U Are](https://www.youtube.com/watch?v=91Wx_0R6vFY)
+...
 
-<br></br>
+<!------------------------------------------------------------------------------------------------->
+
 ## Social media :mailbox_with_no_mail:
 
 [![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/GabrielhoppeM)

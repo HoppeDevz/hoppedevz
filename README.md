@@ -7,7 +7,7 @@ user.github_username: 'HoppeDevz'
 <img align="right" width="400" height="400" src="https://i.imgur.com/FufhAF4.png">
 
 
-# Hi, I'm Hoppe 🐺
+# Hi, I'm Hoppe!
 
 ##### Full-Stack | Software engineer :robot:.
 
@@ -34,7 +34,7 @@ user.github_username: 'HoppeDevz'
 
 <!------------------------------------------------------------------------------------------------->
 
-## Social media :mailbox_with_no_mail:
+## Social media
 
 [![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/GabrielhoppeM)
 [![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/gabrielhoppe)

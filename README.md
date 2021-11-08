@@ -22,9 +22,8 @@ Software Engineer in [FiveFPS](https://fivefps.com) 🚀
 - :eagle: I'm from Brazil
 - :video_game: I like to play video games and coding...
 - :atom: I love the low level programming...
-- 🥤 Two favorite songs -> 
-  [NightLovell - Contraband](https://www.youtube.com/watch?v=ZHI18vd9IJE) 
-  [NightLovell - Whoever U Are](https://www.youtube.com/watch?v=91Wx_0R6vFY)
+- 🥤 [NightLovell - Contraband](https://www.youtube.com/watch?v=ZHI18vd9IJE)
+- 🥤 [NightLovell - Whoever U Are](https://www.youtube.com/watch?v=91Wx_0R6vFY)
 
 
 ## Social media :mailbox_with_no_mail:

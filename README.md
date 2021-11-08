@@ -9,29 +9,29 @@ user.github_username: 'HoppeDevz'
 
 # Hi, I'm Hoppe!
 
-##### Full-Stack | Software engineer :robot:.
+#### Full-Stack | Software engineer :robot:.
 
-##### Computer Science (UNIFENAS) Student. :man_technologist:
+#### Computer Science (UNIFENAS) Student. :man_technologist:
 
-##### Software Engineer in [FiveFPS](https://fivefps.com) 🚀
+#### Software Engineer in [FiveFPS](https://fivefps.com) 🚀
 
-##### Front-end developer in [Automatos](https://automatos.com) 🚀
+#### Front-end developer in [Automatos](https://automatos.com) 🚀
 ...
 <!------------------------------------------------------------------------------------------------->
 
 ## About me 
 
-##### 💛 Mathmatics | 💛 Hip-Hop | 💛 Programming
+#### 💛 Mathmatics | 💛 Hip-Hop | 💛 Programming
 
-##### - 🍥 I'm from Brazil
-##### - 🍥 I like listen music every time and coding/studying...
+#### - 🍥 I'm from Brazil
+#### - 🍥 I like listen music every time and coding/studying...
 ...
 
 <!------------------------------------------------------------------------------------------------->
 
 ## Two favorite songs
-##### - 🥤 [NightLovell - Contraband](https://www.youtube.com/watch?v=ZHI18vd9IJE)
-##### - 🥤 [NightLovell - Whoever U Are](https://www.youtube.com/watch?v=91Wx_0R6vFY)
+#### - 🥤 [NightLovell - Contraband](https://www.youtube.com/watch?v=ZHI18vd9IJE)
+#### - 🥤 [NightLovell - Whoever U Are](https://www.youtube.com/watch?v=91Wx_0R6vFY)
 ...
 
 <!------------------------------------------------------------------------------------------------->

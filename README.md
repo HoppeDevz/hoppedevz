@@ -15,7 +15,7 @@ user.github_username: 'HoppeDevz'
 
 ##### Software Engineer in [FiveFPS](https://fivefps.com) 🚀
 
-##### Front-end developer in [Automatos](https://automatos.com)
+##### Front-end developer in [Automatos](https://automatos.com) 🚀
 ...
 <!------------------------------------------------------------------------------------------------->
 

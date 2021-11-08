@@ -17,13 +17,14 @@ Software Engineer in [FiveFPS](https://fivefps.com) 🚀
 
 ## About me 
 
-:heart: Mathmatics | :black_heart: Hip-Hop | :blue_heart: Programming
+##### 💛 Mathmatics | 💛 Hip-Hop | 💛 Programming
 
-- :eagle: I'm from Brazil
-- :video_game: I like to play video games and coding...
-- :atom: I love the low level programming...
-- 🥤 [NightLovell - Contraband](https://www.youtube.com/watch?v=ZHI18vd9IJE)
-- 🥤 [NightLovell - Whoever U Are](https://www.youtube.com/watch?v=91Wx_0R6vFY)
+##### - 🍥 I'm from Brazil
+##### - 🍥 I like listen music every time and coding/studying...
+
+## Two favorite songs
+##### - 🥤 [NightLovell - Contraband](https://www.youtube.com/watch?v=ZHI18vd9IJE)
+##### - 🥤 [NightLovell - Whoever U Are](https://www.youtube.com/watch?v=91Wx_0R6vFY)
 
 
 ## Social media :mailbox_with_no_mail:

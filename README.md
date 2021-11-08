@@ -29,7 +29,7 @@ user.github_username: 'HoppeDevz'
 
 <!------------------------------------------------------------------------------------------------->
 
-## Two favorite songs
+## Favorite songs
 #### - 🥤 [NightLovell - Contraband](https://www.youtube.com/watch?v=ZHI18vd9IJE)
 #### - 🥤 [NightLovell - Whoever U Are](https://www.youtube.com/watch?v=91Wx_0R6vFY)
 ...

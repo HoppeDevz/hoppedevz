@@ -14,6 +14,8 @@ user.github_username: 'HoppeDevz'
 ##### Computer Science (UNIFENAS) Student. :man_technologist:
 
 ##### Software Engineer in [FiveFPS](https://fivefps.com) 🚀
+
+##### Front-end developer in [Automatos](https://automatos.com)
 ...
 <!------------------------------------------------------------------------------------------------->
 

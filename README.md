@@ -11,10 +11,10 @@ user.github_username: 'HoppeDevz'
 
 #### Full-Stack | Software engineer :robot:.
 
-#### Computer Science (UNIFENAS) Student. :man_technologist:
+#### Ciência da Computação (UNIFENAS) (3 Períodos)
+#### Engenharia da Computação (UNINTER) (Atualmente)
 
-#### Software Engineer in [FiveFPS](https://fivefps.com) 🚀
-
+#### Owner [FiveFPS](https://fivefps.com) 🚀
 #### Front-end developer in [Automatos](https://automatos.com) 🚀
 ...
 <!------------------------------------------------------------------------------------------------->

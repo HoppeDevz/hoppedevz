@@ -1,9 +1,3 @@
----
-user.name: Gabriel Hoppe
-user.birth_date: '2003-27-02'
-user.github_username: 'HoppeDevz'
----
-
 # Hi, I'm Hoppe!
 
 #### Full-Stack | Software engineer :robot:.

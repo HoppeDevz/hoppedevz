@@ -1,10 +1,7 @@
 # Hi, I'm Hoppe!
-#### Ciência da Computação (UNIFENAS) (3 Períodos)
-#### Engenharia da Computação (UNINTER) (Atualmente)
 
 #### Owner [FiveFPS](https://fivefps.com) 🚀
 #### Front-end developer in [Automatos](https://automatos.com) 🚀
-...
 
 ## Social media
 [![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/GabrielhoppeM)

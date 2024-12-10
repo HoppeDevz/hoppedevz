@@ -1,7 +1,7 @@
 # Hi, I'm Hoppe!
 
 #### Owner [FiveFPS](https://fivefps.com) 🚀
-#### I love Linux, C/C++ and reverse engineering. Click [here](https://hoppedevz.github.io/curriculum-vitae/) to check my CV.
+#### I love Windows Internals, C/C++ and reverse engineering. Click [here](https://hoppedevz.github.io/curriculum-vitae/) to check my CV.
 
 ## Social media
 [![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/GabrielhoppeM)
